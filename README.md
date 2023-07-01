@@ -1,6 +1,6 @@
-### <h1 align="center">Hi there, I'm Rushil Bhatt! 🙋🏽‍♂️</h1>
+### <h1 align="centre">Hi there, I'm Rushil Bhatt! 🙋🏽‍♂️</h1>
 
-<p align = "center">A <b>Junior Front-end React Engineer<b> currently located 📍Warsaw, Poland. I'm passionate about creating Frontend web applications and content that can be of value to others. Mostly focuesd about website & mobile Design, Architecture and Clean Code. Besides developing, I can be found traveling to enjoy various types of food, cultures, and incredible eye catching landscapes accross the globe. 
+<p align = "center">A <b>Junior Front-end React Engineer<b> currently located 📍Warsaw, Poland. I'm passionate about creating front-end web applications and content that can benefit others. Mostly focused on website & mobile Design, Architecture and Clean Code. Besides developing, I can be found travelling to enjoy various types of food, cultures, and incredible eye-catching landscapes across the globe. 
   
 ### <h1>Skills 🎯💪</h1>
 ## 🖥️ Programming languages
@@ -22,10 +22,8 @@
 <hr/>
 <h1> 🌎🔗 How to reach me 🚀<h1>
 <p>
-	<a href="mailto:rushilbhatt533@gmail.com"><img src="https://img.icons8.com/ios/50/22C3E6/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/rushilbhatt28/"><img src="https://img.icons8.com/ios/50/22C3E6/github.png" alt="GitHub"/></a>
+	<a href="mailto:rushilcodelab@gmail.com"><img src="https://img.icons8.com/ios/50/22C3E6/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/rushil-bhatt-5a8402157/"><img src="https://img.icons8.com/ios/50/22C3E6/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/RushilBhatt7"><img src="https://img.icons8.com/ios/50/22C3E6/twitter--v1.png" alt="Twitter"/></a>
 </p>
 <hr/>
 	
@@ -39,6 +37,6 @@
 
 
 <!-- - 🔭 
-- 🌱 I’m currently diving deep into react conceptes and learning web3 technologies
+- 🌱 I’m currently diving deep into react concepts and learning web3 technologies
 - 💬 Ask me about 
 - ⚡ Fun fact: ... -->
