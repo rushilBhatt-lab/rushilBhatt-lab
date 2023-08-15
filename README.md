@@ -25,16 +25,6 @@
 	<a href="mailto:rushilcodelab@gmail.com"><img src="https://img.icons8.com/ios/50/22C3E6/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/rushil-bhatt-5a8402157/"><img src="https://img.icons8.com/ios/50/22C3E6/linkedin.png" alt="LinkedIn"/></a>
 </p>
-<hr/>
-	
-<h1>Stats📊</h1>
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushilbhatt28) 
-	
-![Github stats](https://github-readme-stats.vercel.app/api?username=rushilbhatt28&show_icons=true&theme=tokyonight&count_private=true)
-
-
-
 
 <!-- - 🔭 
 - 🌱 I’m currently diving deep into react concepts and learning web3 technologies
