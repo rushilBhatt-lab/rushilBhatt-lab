@@ -14,10 +14,6 @@
 ## 🅱 Backend
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp; ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) &nbsp; ![Nest.JS](https://img.shields.io/badge/-NestJS-E10098?style=for-the-badge&logo=NestJS&logoColor=white)
-
-
-## 🗂️ Databases & Cloud Hosting 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp; ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp; ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) &nbsp;
 <br />
 <hr/>
 <h1> 🌎🔗 How to reach me 🚀<h1>
