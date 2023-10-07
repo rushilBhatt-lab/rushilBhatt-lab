@@ -1,6 +1,6 @@
 ### <h1 align="centre">Hi there, I'm Rushil Bhatt! 🙋🏽‍♂️</h1>
 
-<p align = "center">A <b>Junior Front-end React Engineer<b> currently located 📍Warsaw, Poland. I'm passionate about creating front-end web applications and content that can benefit others. Mostly focused on website & mobile Design, Architecture and Clean Code. Besides developing, I can be found travelling to enjoy various types of food, cultures, and incredible eye-catching landscapes across the globe. 
+<p align = "center">A <b>Front-end React Engineer<b> currently located 📍Warsaw, Poland. I'm passionate about creating front-end web applications and content that can benefit others. Mostly focused on website & mobile Design, Architecture and Clean Code. Besides developing, I can be found travelling to enjoy various types of food, cultures, and incredible eye-catching landscapes across the globe. 
   
 ### <h1>Skills 🎯💪</h1>
 ## 🖥️ Programming languages
